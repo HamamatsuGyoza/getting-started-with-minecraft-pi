@@ -1,4 +1,4 @@
-## What you will make in github page branch　日本語に翻訳していきます。
+## What you will make in github page branch　日本語に翻訳していきます。natori
 
 
 
@@ -25,4 +25,3 @@ By following this resource with your Raspberry Pi you will learn:
 This resource covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://www.raspberrypi.org/curriculum/):
 
 - [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator)
-
